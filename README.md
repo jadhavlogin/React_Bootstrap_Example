@@ -9,7 +9,6 @@ This project is for understand the How to use Reactive Bootstrap in React applic
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
 - [Supported Browsers](#supported-browsers)
-- [Installing a Dependency](#installing-a-dependency)
 
 ## React Bootstrap
    You can find the details about React Bootstrap on this link.
